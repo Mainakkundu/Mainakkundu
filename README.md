@@ -9,10 +9,10 @@ experience building production AI and decision systems.
 - I build controlled AI systems: models handle ambiguity, while deterministic code, evaluation harnesses, and human approval gates control execution.
 - I'm currently building an evidence-driven incident-triage agent and a hierarchical forecasting and replenishment decision system.
 
-#### Current work
+#### Current Agentic Engineering Work
 
 - **[Incident Triage Agent](https://github.com/Mainakkundu/incident-agent-traige)** — An evidence-driven supervisor that investigates incidents across logs, dependencies, past cases, and runbooks. [Architecture](https://github.com/Mainakkundu/incident-agent-traige/blob/main/docs/TECHNICAL_ARCHITECTURE.md) · [Diagram](https://github.com/Mainakkundu/incident-agent-traige/blob/main/docs/incident-triage-architecture-simple.png)
-- **[Retail Demand & Replenishment Decision System](https://github.com/Mainakkundu/retail-replenishment-system)** — Probabilistic forecasting, inventory simulation, cost-aware ordering, and planner-facing exception investigation. [Architecture](https://github.com/Mainakkundu/retail-replenishment-system/blob/main/TECHNICAL_OVERVIEW.md) · [Diagram](https://github.com/Mainakkundu/retail-replenishment-system/blob/main/retail-replenishment-architecture-simple.png)
+- **[Agentic Retail Replenishment Control Tower](https://github.com/Mainakkundu/retail-replenishment-system)** — A central exception agent investigates high-impact stockout, overstock, and supplier risks over a deterministic forecasting and ordering engine. [Architecture](https://github.com/Mainakkundu/retail-replenishment-system/blob/main/TECHNICAL_OVERVIEW.md) · [Diagram](https://github.com/Mainakkundu/retail-replenishment-system/blob/main/retail-replenishment-architecture-simple.png)
 
 #### Earlier work
 
