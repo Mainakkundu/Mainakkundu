@@ -11,15 +11,14 @@ experience building production AI and decision systems.
 
 #### Current work
 
-- **[Incident Triage Agent](https://github.com/Mainakkundu/incident-agent-traige)** — A single-supervisor agent that investigates incidents through typed MCP tools, CMDB traversal, confidence gating, human approval, and a reconstructable audit trail.
-- **[Technical architecture](https://github.com/Mainakkundu/incident-agent-traige/blob/main/docs/TECHNICAL_ARCHITECTURE.md)** — The production target, trust boundaries, retrieval design, governance model, evaluation strategy, and known limitations.
-- **[Architecture diagram](https://github.com/Mainakkundu/incident-agent-traige/blob/main/docs/incident-triage-architecture-simple.png)** — A concise view of the Agentic AI engineering harness around the supervisor.
+- **[Incident Triage Agent](https://github.com/Mainakkundu/incident-agent-traige)** — An evidence-driven supervisor that investigates incidents across logs, service dependencies, past cases, and runbooks, with confidence gates, human approval, and a reconstructable audit trail.
+- **[Retail Demand & Replenishment Decision System](https://github.com/Mainakkundu/retail-replenishment-system)** — Hierarchical probabilistic forecasting, inventory simulation, and cost-aware ordering, extended with a planner-facing agent for high-impact replenishment exceptions.
 
 #### Earlier work
 
-- [LSTM time-series forecasting](https://github.com/Mainakkundu/LSTM-Time-Series-Forecasting)
-- [Blend-ensemble time-series forecasting](https://github.com/Mainakkundu/Blend-Ensemble-Time-Series-Forecasting)
-- [Containerized Streamlit deployment](https://github.com/Mainakkundu/streamlit-docker-deploy)
+- **[LSTM Demand Forecasting](https://github.com/Mainakkundu/LSTM-Time-Series-Forecasting)** — A stateful LSTM forecaster with lag features, scaling, per-series parameters, and fallback handling for short histories.
+- **[Two-Stage Forecast Ensemble](https://github.com/Mainakkundu/Blend-Ensemble-Time-Series-Forecasting)** — A stacked ensemble combining statistical and ML forecasts with event-calendar signals, followed by a second-stage residual error model.
+- **[A/B Testing Statistical Workbench](https://github.com/Mainakkundu/streamlit-docker-deploy)** — A Dockerized Streamlit application for sample-size planning, significance testing, CUPED variance reduction, and pre/post causal analysis.
 
 I'm interested in practical conversations about agentic systems, ML platforms,
 evaluation, and taking AI applications beyond the demo stage.
