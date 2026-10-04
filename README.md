@@ -11,8 +11,8 @@ experience building production AI and decision systems.
 
 #### Current work
 
-- **[Incident Triage Agent](https://github.com/Mainakkundu/incident-agent-traige)** — An evidence-driven supervisor that investigates incidents across logs, service dependencies, past cases, and runbooks, with confidence gates, human approval, and a reconstructable audit trail.
-- **[Retail Demand & Replenishment Decision System](https://github.com/Mainakkundu/retail-replenishment-system)** — Hierarchical probabilistic forecasting, inventory simulation, and cost-aware ordering, extended with a planner-facing agent for high-impact replenishment exceptions.
+- **[Incident Triage Agent](https://github.com/Mainakkundu/incident-agent-traige)** — An evidence-driven supervisor that investigates incidents across logs, dependencies, past cases, and runbooks. [Architecture](https://github.com/Mainakkundu/incident-agent-traige/blob/main/docs/TECHNICAL_ARCHITECTURE.md) · [Diagram](https://github.com/Mainakkundu/incident-agent-traige/blob/main/docs/incident-triage-architecture-simple.png)
+- **[Retail Demand & Replenishment Decision System](https://github.com/Mainakkundu/retail-replenishment-system)** — Probabilistic forecasting, inventory simulation, cost-aware ordering, and planner-facing exception investigation. [Architecture](https://github.com/Mainakkundu/retail-replenishment-system/blob/main/TECHNICAL_OVERVIEW.md) · [Diagram](https://github.com/Mainakkundu/retail-replenishment-system/blob/main/retail-replenishment-architecture-simple.png)
 
 #### Earlier work
 
