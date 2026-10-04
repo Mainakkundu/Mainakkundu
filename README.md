@@ -1,17 +1,13 @@
 ### Hi, I'm Mainak 👋
 
-I'm a Staff Data Scientist and Tech Lead at ServiceNow. I build
-production-oriented AI and machine learning systems, with a focus on agentic
-AI, causal inference, and recommender systems.
+I'm a Staff Data Scientist and AI Tech Lead at ServiceNow with 14+ years of
+experience building production AI and decision systems.
 
-I care about the engineering around a model: clear system boundaries,
-evaluation, observability, and enough control to make automation trustworthy.
-
-- 🔭 I'm currently building an [incident-triage agent](https://github.com/Mainakkundu/incident-agent-traige) that follows evidence across logs, service dependencies, past incidents, and runbooks.
-- 🧭 I work on agentic AI architecture, causal reasoning, recommender systems, and decision systems.
-- 🛠️ My default approach is simple: use models for decisions that depend on runtime context; keep data access, policy, and writes deterministic.
-- ✍️ I write about the engineering behind AI systems, including [how I designed a bounded and auditable incident-triage agent](https://github.com/Mainakkundu/incident-agent-traige/blob/main/docs/BLOG.md).
-- 📍 I'm based in Bengaluru, India.
+- At ServiceNow, I architected a multi-agent data-engineering platform using LangGraph and MCP, reducing enterprise data-model design from 2–3 weeks to under 2 hours.
+- Previously, I led AB InBev's global experimentation platform, supporting 200+ live experiments per month, and built hierarchical forecasting systems for procurement.
+- My work spans agentic AI, production RAG, causal inference, recommender systems, forecasting, and LLM evaluation.
+- I build controlled AI systems: models handle ambiguity, while deterministic code, evaluation harnesses, and human approval gates control execution.
+- I'm currently building an evidence-driven incident-triage agent and a hierarchical forecasting and replenishment decision system.
 
 #### Current work
 
